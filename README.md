@@ -12,8 +12,7 @@ Este projeto é um script Bash que automatiza o processo de deploy de um site es
 📂 Clona o repositório do GitHub  
 🌐 Sobe um container Nginx com seu portfólio dentro
 
-
-
+---
 
 ## 🚀 Como usar
 Cole o link do seu repositório quando pedir!
