@@ -37,7 +37,7 @@ Git instalado (o script instala se não tiver)
 
 ---
 
-##📚 Aprendizado
+## 📚 Aprendizado
 Esse projeto nasceu de um estudo pessoal durante o bootcamp DevOps com AWS da DIO, buscando aplicar práticas reais de automação, deploy e DevOps.
 
 ---
