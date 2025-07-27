@@ -26,7 +26,17 @@ Antes de rodar o script, certifique-se de que o caminho abaixo existe e contém 
 Note que a última pasta portifolio é a que leva até o arquivo `index.html`, que é exatamente o que o Nginx vai buscar para exibir no navegador.
 Se essa pasta não existir ou estiver vazia, o Nginx poderá mostrar uma página em branco ou erro 403.
 
+---
 
+## 🧪 Pré-requisitos
+Ubuntu ou outra distro Linux com acesso root
 
+Conexão com a internet
 
+Git instalado (o script instala se não tiver)
+
+---
+
+##📚 Aprendizado
+Esse projeto nasceu de um estudo pessoal durante o bootcamp DevOps com AWS da DIO, buscando aplicar práticas reais de automação, deploy e DevOps.
 
